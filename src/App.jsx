@@ -2,7 +2,7 @@ import React from 'react'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import Home from './Pages/Frontend/Home'
 import About from './Pages/Frontend/About'
-import Contact from './Pages/Frontend/contact'
+import Contact from './Pages/Frontend/Contact'
 import Category from './Pages/Frontend/Category'
 import Detail from './Pages/Frontend/Detail'
 
